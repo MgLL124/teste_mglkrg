@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos_Pessoais\\teste_mglkrg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|c:\\projetos_pessoais\\teste_mglkrg\\consoleapp1\\layouts\\layout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|solutionrelative:consoleapp1\\layouts\\layout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|c:\\projetos_pessoais\\teste_mglkrg\\consoleapp1\\layouts\\layout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|solutionrelative:consoleapp1\\layouts\\layout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|c:\\projetos_pessoais\\teste_mglkrg\\consoleapp1\\console\\mainconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|solutionrelative:consoleapp1\\console\\mainconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|c:\\projetos_pessoais\\teste_mglkrg\\consoleapp1\\utils\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|solutionrelative:consoleapp1\\utils\\jsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|c:\\projetos_pessoais\\teste_mglkrg\\consoleapp1\\models\\layout2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6440A7-4F6B-434B-B0E9-8690CEDCD5F6}|ConsoleApp1\\AvaliacaoDotnet.csproj|solutionrelative:consoleapp1\\models\\layout2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2166,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{31879382-50e1-3e5b-88b6-69f415918fa5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout1.cs",
+              "DocumentMoniker": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Layouts\\Layout1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Layouts\\Layout1.cs",
+              "ToolTip": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Layouts\\Layout1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Layouts\\Layout1.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T18:07:17.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Layout2.cs",
+              "DocumentMoniker": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Layouts\\Layout2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Layouts\\Layout2.cs",
+              "ToolTip": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Layouts\\Layout2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Layouts\\Layout2.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T16:45:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Layout2Model.cs",
+              "DocumentMoniker": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Models\\Layout2Model.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Layout2Model.cs",
+              "ToolTip": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Models\\Layout2Model.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Layout2Model.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T17:00:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonRepository.cs",
+              "DocumentMoniker": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Utils\\JsonRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Utils\\JsonRepository.cs",
+              "ToolTip": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Utils\\JsonRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\Utils\\JsonRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T16:30:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainConsole.cs",
+              "DocumentMoniker": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Console\\MainConsole.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Console\\MainConsole.cs",
+              "ToolTip": "C:\\Projetos_Pessoais\\teste_mglkrg\\ConsoleApp1\\Console\\MainConsole.cs",
+              "RelativeToolTip": "ConsoleApp1\\Console\\MainConsole.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T13:22:50.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

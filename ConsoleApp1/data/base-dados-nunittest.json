@@ -1,0 +1,48 @@
+[
+  {
+    "cnpj": "97.164.236/8824-57",
+    "nome": "Empresa Ficticia 01 LTDA",
+    "telefone": "(27) 93695-3642",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "01-0001",
+        "valor": 2185.45,
+        "itens": [
+          {
+            "descricao": "Componente 178",
+            "valor": 302.89
+          },
+          {
+            "descricao": "Peça 549",
+            "valor": 364.78
+          },
+          {
+            "descricao": "Item 244",
+            "valor": 180.54
+          },
+          {
+            "descricao": "Serviço 092",
+            "valor": 341.61
+          },
+          {
+            "descricao": "Licença 235",
+            "valor": 248.96
+          },
+          {
+            "descricao": "Peça 569",
+            "valor": 136.05
+          },
+          {
+            "descricao": "Item 994",
+            "valor": 162.84
+          },
+          {
+            "descricao": "Serviço 334",
+            "valor": 447.78
+          }
+        ]
+      }
+    ]
+  }
+]
